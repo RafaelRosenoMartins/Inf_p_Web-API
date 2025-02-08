@@ -1,4 +1,4 @@
-# 📋 Formulário com Validação
+# 📋 Endpoints RESTful
 
 # 📌 Descrição
 Este projeto é uma API RESTful desenvolvida com Django e Django REST Framework para gerenciar livros e autores. 
